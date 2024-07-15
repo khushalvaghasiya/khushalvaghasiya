@@ -7,5 +7,4 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khushalvaghasiya&theme=github&hide_border=true&bg_color=0d1117&area_color=1f6fea&line=38d252&point=1f6fea&color=fefefe)
 
-<p align="left" href="Top Langs"><img align="center" src="https://github-readme-stats-khushalvaghasiya.vercel.app//api/top-langs/?username=khushalvaghasiya&layout=compact&theme=gotham&langs_count=10&hide=html&hide_border=true&hide_title=false&bg_color=0d1117&text_color=fefefe" /></p>
 
