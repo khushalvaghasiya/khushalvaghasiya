@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Khushal <img align="center" src="https://media.giphy.com/media/yxicUANit7fTdEdZgr/giphy.gif" width="35">
+### # Hi there 👋, I'm Khushal <img align="center" src="https://media.giphy.com/media/yxicUANit7fTdEdZgr/giphy.gif" width="35">
 ![](https://komarev.com/ghpvc/?username=khushalvaghasiya&color=brightgreen&style=flat-square&label=PROFILE+VIEWS)
 
 ## GitHub Stats: <img src="https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif" width="25">
