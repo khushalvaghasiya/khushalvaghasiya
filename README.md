@@ -3,7 +3,7 @@
 
 ## GitHub Stats: <img src="https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif" width="25">
 <div style="text-align: center;">
-        <a href="https://github.com/AkshayAshokCode/github-readme-stats">
+        <a href="https://github.com/khushalvaghasiya/github-readme-stats">
             <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=khushalvaghasiya&theme=github-dark&hide_border=false" alt="khushalvaghasiya"/>
         </a>
     </div>
