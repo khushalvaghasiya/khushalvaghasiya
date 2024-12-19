@@ -3,7 +3,6 @@
 
 ## GitHub Stats: <img src="https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif" width="25">
 <div align="center">
-**My github stats**
 <p align="start"> <img src="https://github-readme-stats.vercel.app/api?username=khushalvaghasiya&count_private=true&show_icons=true&theme=radical" />
 </div>
 
