@@ -3,9 +3,8 @@
 
 ## GitHub Stats: <img src="https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif" width="25">
 <div align="center">
-    <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=khushalvaghasiya" alt="GitHub Streak" />
-    </a>
+**My github stats**
+<p align="start"> <img src="https://github-readme-stats.vercel.app/api?username=khushalvaghasiya&count_private=true&show_icons=true&theme=radical" />
 </div>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khushalvaghasiya&theme=github-dark&hide_border=true&bg_color=0d1117&area_color=1f6fea&line=38d252&point=1f6fea&color=fefefe)
